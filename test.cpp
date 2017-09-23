@@ -1,7 +1,10 @@
 #include <iostream>
 
+using std::cout;
+using std::endl;
+
 int main(int argc, char *argv[]) {
-  std::cout << "Hello World" << std::endl;
-  std::cout << "fuck her" << std::endl;
+  cout << "Hello World" << endl;
+  cout << "fuck her" << endl;
   return 0;
 }
